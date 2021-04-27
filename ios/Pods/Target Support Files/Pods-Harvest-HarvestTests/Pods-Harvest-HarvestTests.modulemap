@@ -1,0 +1,6 @@
+module Pods_Harvest_HarvestTests {
+  umbrella header "Pods-Harvest-HarvestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
